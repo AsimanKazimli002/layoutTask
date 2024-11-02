@@ -1,0 +1,36 @@
+.mainDiv {
+  border: 1px solid black;
+  padding: 5px;
+  width: 600px;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.headerDiv {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  margin: 4px 0px;
+
+}
+.navDiv {
+  background-color: rgb(12, 192, 223);
+  color: white;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  margin: 4px 0px;
+
+}
+.sectionDiv{
+  color: white;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(255,189,89);
+  width: 345px;
+  margin: 4px 0px;
+
+}
